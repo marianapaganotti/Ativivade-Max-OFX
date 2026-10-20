@@ -1,0 +1,7 @@
+.venv/
+.runtime/
+.local/
+__pycache__/
+*.pyc
+*.log
+entrega.zip
